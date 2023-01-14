@@ -1,0 +1,12 @@
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\bin\Debug\net6.0\ZeroX.Infrastructure.deps.json
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\bin\Debug\net6.0\ZeroX.Infrastructure.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\bin\Debug\net6.0\ZeroX.Infrastructure.pdb
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.AssemblyInfo.cs
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\refint\ZeroX.Infrastructure.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ZeroX.Infrastructure.pdb
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.Infrastructure\obj\Debug\net6.0\ref\ZeroX.Infrastructure.dll

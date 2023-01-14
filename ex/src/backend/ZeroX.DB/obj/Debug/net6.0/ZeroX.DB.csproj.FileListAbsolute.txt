@@ -1,0 +1,15 @@
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\bin\Debug\net6.0\ZeroX.DB.deps.json
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\bin\Debug\net6.0\ZeroX.DB.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\bin\Debug\net6.0\ZeroX.DB.pdb
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\bin\Debug\net6.0\ZeroX.Infrastructure.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\bin\Debug\net6.0\ZeroX.Infrastructure.pdb
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.csproj.AssemblyReference.cache
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.AssemblyInfoInputs.cache
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.AssemblyInfo.cs
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.csproj.CoreCompileInputs.cache
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.csproj.CopyComplete
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\refint\ZeroX.DB.dll
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ZeroX.DB.pdb
+C:\Users\LordVT\Desktop\ex\src\backend\ZeroX.DB\obj\Debug\net6.0\ref\ZeroX.DB.dll
