@@ -20,4 +20,11 @@ public class GameController : Controller
     {
         return Task.FromResult(_repository.GetGames(parameters));
     }
+    
+    [HttpGet]
+    [Route("{gameId:int}")]
+    public async Task<GameDto?> Game(int gameId)
+    {
+        return await _repository.FindByIdAsync(gameId);
+    }
 }
