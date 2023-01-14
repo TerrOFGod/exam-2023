@@ -72,10 +72,4 @@ public static class IServiceCollectionExtension
         services.AddSignalR(options => { options.EnableDetailedErrors = true; });
         return services;
     }
-
-    public static IServiceCollection AddSwagger(this IServiceCollection services)
-    {
-        services.AddSwagger();
-        return services;
-    }
 }

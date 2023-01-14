@@ -5,12 +5,12 @@ using ZeroX.Infrastructure.Interfaces;
 
 namespace ZeroX.Infrastructure.SignalR.Hubs;
 
-public class ChatHub : Hub
+public class GameHub : Hub
 {
     private IGameRepository _gameRepository;
     private readonly IBus _bus;
 
-    public ChatHub(IGameRepository gameRepository, IBus bus)
+    public GameHub(IGameRepository gameRepository, IBus bus)
     {
         _gameRepository = gameRepository;
         _bus = bus;

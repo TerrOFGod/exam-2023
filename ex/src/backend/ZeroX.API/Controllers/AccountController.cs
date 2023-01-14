@@ -17,11 +17,11 @@ public class AccountController : Controller
     private readonly SignInManager<AppUser> _signInManager;
     private readonly UserManager<AppUser> _userManager;
     private readonly IJwtGenerator _generator;
-    private readonly IHubContext<ChatHub> _context; 
+    private readonly IHubContext<GameHub> _context; 
     
     public AccountController(ILogger<AccountController> logger,
         UserManager<AppUser> userManager,
-        SignInManager<AppUser> signInManager, IJwtGenerator generator, IHubContext<ChatHub> context)
+        SignInManager<AppUser> signInManager, IJwtGenerator generator, IHubContext<GameHub> context)
     {
         _logger = logger;
         _userManager = userManager;
@@ -55,7 +55,8 @@ public class AccountController : Controller
             if (result.Succeeded)
             {
                 _logger.LogInformation("User (Email: {Email}) successfully registered", model.Email);
-                return await Login(model.RegisterToLogin());
+                user = await _userManager.FindByEmailAsync(model.Email);
+                return Ok(user.Id);
             }
 
             _logger.LogInformation("User (Email: {Email}) has already registered", model.Email);
