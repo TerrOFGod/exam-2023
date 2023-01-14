@@ -49,12 +49,12 @@ public class GameHub : Hub
         await _gameRepository.AddOpponent(id, Context.User.Identity?.Name!, Context.ConnectionId);
     }
     
-    public async Task Turn(int gameId)
+    public async Task Turn(int gameId, int square)
     {
         var game = await _gameRepository.FindByIdAsync(gameId);
         
         if (Context.ConnectionId == game.CreatorConnection || Context.ConnectionId == game.OpponentConnection)
-            await Clients.Group(game.Creator).SendAsync("PlayerTurnEvent");
+            await Clients.Group(game.Creator).SendAsync("PlayerTurnEvent", square);
         else
             await Clients.Group(game.Creator).SendAsync("NotPlayerTurnEvent");
     }
