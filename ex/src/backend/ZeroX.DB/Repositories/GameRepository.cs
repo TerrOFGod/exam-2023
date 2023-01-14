@@ -45,6 +45,13 @@ public class GameRepository : IGameRepository
             .SingleOrDefaultAsync())
             .DbToDto();
     }
+    
+    public async Task<GameDto?> FindByCreatorAsync(string creator)
+    {
+        return (await _context.Games.Where(game => game.Creator == creator)
+                .SingleOrDefaultAsync())
+            .DbToDto();
+    }
 
     public async Task AddOpponent(int id, string opponent, string connection)
     {

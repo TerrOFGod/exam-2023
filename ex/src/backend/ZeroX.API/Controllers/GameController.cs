@@ -27,4 +27,10 @@ public class GameController : Controller
     {
         return await _repository.FindByIdAsync(gameId);
     }
+    
+    [HttpGet]
+    public async Task<GameDto?> Game([FromQuery] string creator)
+    {
+        return await _repository.FindByCreatorAsync(creator);
+    }
 }
