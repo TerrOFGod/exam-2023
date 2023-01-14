@@ -49,8 +49,8 @@ services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 // добавление ApplicationDbContext для взаимодействия с базой данных учетных записей
 services.AddDbContext<ZeroXContext>(options =>
-    options.UseNpgsql("User Id=postgres;Password=Vselord2002;Host=localhost;Port=5432;Database=zerox")
-    //options.UseNpgsql($"User Id={config["DB_USERNAME"]};Password={config["DB_PASSWORD"]};Host={config["DB_HOST"]};Database={config["DB_DATABASE"]};Port={config["DB_PORT"]}")
+    //options.UseNpgsql("User Id=postgres;Password=Vselord2002;Host=localhost;Port=5432;Database=zerox")
+    options.UseNpgsql($"User Id={config["DB_USERNAME"]};Password={config["DB_PASSWORD"]};Host={config["DB_HOST"]};Database={config["DB_DATABASE"]};Port={config["DB_PORT"]}")
     );
 
 // добавление сервисов Idenity
@@ -64,11 +64,8 @@ services.AddNewRoomConsumer(config);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
 app.UseCors("CorsPolicy");
 

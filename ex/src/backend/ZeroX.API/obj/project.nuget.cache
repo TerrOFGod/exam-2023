@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z6GbVNaGWbYRqpAbJ08ZWZOKkb0VwtzO5YZwCBsxYOP+g/3fG40+fR69SiAoRzDTsqb97tD7ZVnAKP2twi8fpA==",
+  "dgSpecHash": "DUd6oQXACbnh+SL1gXSKUFnsveGU4XlssGBN4cmOVj5FkC0aCiAv/CQN2/tZZCfm6gi5O04ckeLS9ohJNWXJcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.API\\ZeroX.API.csproj",
+  "projectFilePath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.API\\ZeroX.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LordVT\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\LordVT\\.nuget\\packages\\masstransit\\8.0.11-develop.813\\masstransit.8.0.11-develop.813.nupkg.sha512",

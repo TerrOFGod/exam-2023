@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tP6C+bCCW9R8FeGxcaygdlMjYAKyULsY6AjPkLbWWRI8/6gGnEPb3v8egC8xVprChDBt7H1RQsUdHxOGPvTzKg==",
+  "dgSpecHash": "KqMBLMpj5vPeDgqXgMDRBS4lI1YiAJKL1GETGcNRUidZmKV3+NHpv5B0F0/3+NoCFHFAb3ZW/bwvkUFhTT2g7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LordVT\\.nuget\\packages\\masstransit\\8.0.11-develop.813\\masstransit.8.0.11-develop.813.nupkg.sha512",
     "C:\\Users\\LordVT\\.nuget\\packages\\masstransit.abstractions\\8.0.11-develop.813\\masstransit.abstractions.8.0.11-develop.813.nupkg.sha512",

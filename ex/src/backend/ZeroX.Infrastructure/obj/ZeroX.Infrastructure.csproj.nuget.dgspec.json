@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj": {}
+    "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj": {
+    "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj",
         "projectName": "ZeroX.Infrastructure",
-        "projectPath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\LordVT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

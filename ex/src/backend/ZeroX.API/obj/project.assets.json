@@ -11666,11 +11666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.API\\ZeroX.API.csproj",
+      "projectUniqueName": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.API\\ZeroX.API.csproj",
       "projectName": "ZeroX.API",
-      "projectPath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.API\\ZeroX.API.csproj",
+      "projectPath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.API\\ZeroX.API.csproj",
       "packagesPath": "C:\\Users\\LordVT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.API\\obj\\",
+      "outputPath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -11693,11 +11693,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.DB\\ZeroX.DB.csproj": {
-              "projectPath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.DB\\ZeroX.DB.csproj"
+            "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.DB\\ZeroX.DB.csproj": {
+              "projectPath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.DB\\ZeroX.DB.csproj"
             },
-            "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\LordVT\\Desktop\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj"
+            "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\LordVT\\Desktop\\exam-2023\\ex\\src\\backend\\ZeroX.Infrastructure\\ZeroX.Infrastructure.csproj"
             }
           }
         }

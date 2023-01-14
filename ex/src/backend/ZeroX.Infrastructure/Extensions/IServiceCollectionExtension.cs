@@ -37,14 +37,14 @@ public static class IServiceCollectionExtension
     {
         services.AddMassTransit(config =>
         {
-            // var host = configuration["RABBITMQ_HOST"];
-            // if (host is null)
-            //     throw new ArgumentNullException(nameof(host), "Host for RabbitMq is not provided");
+            var host = configuration["RABBITMQ_HOST"];
+            if (host is null)
+                throw new ArgumentNullException(nameof(host), "Host for RabbitMq is not provided");
 
             config.AddConsumer<NewRoomConsumer>();
             config.UsingRabbitMq((registrationContext, factory) =>
             {
-                factory.Host("localhost"//host
+                factory.Host(host//"localhost"
                     , "/", h =>
                 {
                     h.Username("guest");
